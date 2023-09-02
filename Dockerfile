@@ -1,5 +1,5 @@
 FROM python:2.7
-MAINTAINER Eric Taieb Walch <teknologist@gmail.com>
+MAINTAINER Jiří Štefka <jiri.stefka.js@gmail.com>
 
 RUN mkdir /app && \
 cd /app && \
